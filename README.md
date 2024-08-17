@@ -1,4 +1,4 @@
-# QwirkleNEA
+# Qwirkle
 My A-Level coursework to implement a digital version of the Qwirkle game. It allows users to register for an account, log into an account, create games, pause games, resume games and delete games. For each game you can play up to three computer players and choose their difficulty (easy, medium, or hard). SQL commands are used to access information from the database and tkinter is used for the GUI version of the game.
 
 # How to set up
