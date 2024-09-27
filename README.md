@@ -6,7 +6,7 @@ My A-Level coursework to implement a digital version of the Qwirkle game. It all
 2. Extract all from the downloaded zip of the files
 3. In your IDE, open the inner-most folder available that contains all of the code (if this is not done, images won't be accessed correctly for the game)
 4. Run the Qwirkle.py file and you will be presented with the option to either use the GUI version or the Terminal version of the game
-5. Register for an account.
+5. Register for an account
 6. Log into your account
 7. Read the rules page
 8. Enjoy playing!
